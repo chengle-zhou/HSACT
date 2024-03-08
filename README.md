@@ -1,1 +1,1 @@
-# HSACT
+Recently, we have done a research work on spectral super-resolution on remote sensing RGB images, directly reconstructing the corresponding hyperspectral image from the RGB image. Soon we will organize and release the relevant Python code.
