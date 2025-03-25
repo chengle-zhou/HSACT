@@ -2,7 +2,7 @@
 ---
 ## HSACT: A Hierarchical Semantic-Aware CNN-Transformer for Remote Sensing Image Super-Resolution
 
-***④	Chengle Zhou, Zhi He, Liwei Zou, Yunfei Li, and Antonio Plaza***
+***Chengle Zhou, Zhi He, Liwei Zou, Yunfei Li, and Antonio Plaza***
 
 *[Neurocomputing](https://doi.org/10.1016/j.neucom.2025.129990), 2025, doi: 10.1016/j.neucom.2025.129990.*
 
